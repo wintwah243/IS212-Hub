@@ -7,7 +7,7 @@ It is important to understand that Data Mining is not a single, isolated task. I
 
 Before the computer can actually "mine" for patterns, the data must go through several preparation steps:
 
-    ကွန်ပျူတာကနေပြီး Data တွေထဲက Patternsတွေကို မရှာဖွေခင်မှာ အဲဒီ Data တွေကို အဆင့်ဆင့်ကို အရင်ဆုံး ဖြတ်သန်းရ။ အပြင်ကရလာတဲ့ Raw Data တွေထဲမှာ အမှိုက်တွေ၊ အမှားတွေ ပါနေတတ်လို့ အဲဒါတွေကို အရင်ဖယ်ရှားဖို့လို။
+ကွန်ပျူတာကနေပြီး Data တွေထဲက Patternsတွေကို မရှာဖွေခင်မှာ အဲဒီ Data တွေကို အဆင့်ဆင့်ကို အရင်ဆုံး ဖြတ်သန်းရ။ အပြင်ကရလာတဲ့ Raw Data တွေထဲမှာ အမှိုက်တွေ၊ အမှားတွေ ပါနေတတ်လို့ အဲဒါတွေကို အရင်ဖယ်ရှားဖို့လို။
 
 ## 1. Data Cleaning
 

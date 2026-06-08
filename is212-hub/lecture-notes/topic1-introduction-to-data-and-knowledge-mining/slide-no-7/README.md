@@ -2,7 +2,7 @@
 
 This slide covers the final three "intelligent" steps of the Knowledge Discovery from Data (KDD) process and lists where we usually find this data.
 
-    ဒီ Slide ကတော့ KDD (Knowledge Discovery from Data) လုပ်ငန်းစဉ်ရဲ့ နောက်ဆုံး သုံးဆင့်ဖြစ်တဲ့ "အသိဉာဏ်ဖြင့် ခွဲခြမ်းစိတ်ဖြာခြင်း (Intelligent Steps)" အကြောင်းနဲ့ ဒီလိုဒေတာတွေကို ပုံမှန်အားဖြင့် ဘယ်နေရာတွေမှာ ရှာဖွေတွေ့ရှိနိုင်သလဲဆိုတဲ့ အရင်းအမြစ် (Data Sources) တွေအကြောင်းကို ခြုံငုံဖော်ပြထားတာ ဖြစ်တယ်။
+ဒီ Slide ကတော့ KDD (Knowledge Discovery from Data) လုပ်ငန်းစဉ်ရဲ့ နောက်ဆုံး သုံးဆင့်ဖြစ်တဲ့ "အသိဉာဏ်ဖြင့် ခွဲခြမ်းစိတ်ဖြာခြင်း (Intelligent Steps)" အကြောင်းနဲ့ ဒီလိုဒေတာတွေကို ပုံမှန်အားဖြင့် ဘယ်နေရာတွေမှာ ရှာဖွေတွေ့ရှိနိုင်သလဲဆိုတဲ့ အရင်းအမြစ် (Data Sources) တွေအကြောင်းကို ခြုံငုံဖော်ပြထားတာ ဖြစ်တယ်။
 
 ## 1. The Final Steps of Knowledge Discovery
 

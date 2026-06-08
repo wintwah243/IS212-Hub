@@ -2,7 +2,7 @@
 
 Data mining tasks are generally divided into two big categories depending on what we want to achieve with our data: Predictive tasks and Descriptive tasks.
 
-    Data Mining Tasks တွေကို မိမိတို့ရဲ့ ဒေတာတွေကနေ ဘာကို ရလဒ်အဖြစ် ရချင်တာလဲ (What we want to achieve) ပေါ် မူတည်ပြီး အုပ်စု ၂ ခု ခွဲခြားနိုင်။
+Data Mining Tasks တွေကို မိမိတို့ရဲ့ ဒေတာတွေကနေ ဘာကို ရလဒ်အဖြစ် ရချင်တာလဲ (What we want to achieve) ပေါ် မူတည်ပြီး အုပ်စု ၂ ခု ခွဲခြားနိုင်။
 
 ## 1. Predictive Mining Tasks
 

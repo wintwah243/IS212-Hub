@@ -30,11 +30,11 @@ While many people think of data as just simple tables or spreadsheets, data mini
 
 **Heterogeneous:** Databases that contain many different kinds of data mixed together.
 
-    အမျိုးအစား မတူညီတဲ့ dataပုံစံပေါင်းစုံ (Different kinds of data) တစ်နေရာတည်းမှာ ရောနှောစုစည်း ပါဝင်နေတဲ့ databaseမျိုး ဖြစ်တယ်။ (ဥပမာ - စနစ်တစ်ခုတည်းမှာပဲ SQL tables တွေကော၊ NoSQL JSON documents တွေကော၊ ရိုးရိုး Text files တွေကော ပါဝင်နေတာမျိုး)
+အမျိုးအစား မတူညီတဲ့ dataပုံစံပေါင်းစုံ (Different kinds of data) တစ်နေရာတည်းမှာ ရောနှောစုစည်း ပါဝင်နေတဲ့ databaseမျိုး ဖြစ်တယ်။ (ဥပမာ - စနစ်တစ်ခုတည်းမှာပဲ SQL tables တွေကော၊ NoSQL JSON documents တွေကော၊ ရိုးရိုး Text files တွေကော ပါဝင်နေတာမျိုး)
 
 **Legacy database:** Older computer systems that might use outdated formats but still contain valuable historical information.
 
-    ခေတ်နောက်ကျနေတဲ့ ပုံစံစနစ်ဟောင်း (Outdated formats) တွေကို အသုံးပြုထားတဲ့ ကွန်ပျူတာစနစ်ဟောင်းတွေ ဖြစ်တယ်။ နည်းပညာအရ ခေတ်မမှီတော့ပေမဲ့ လုပ်ငန်းအတွက် အလွန်တန်ဖိုးရှိတဲ့ သမိုင်းဝင် အချက်အလက်ဟောင်း (Valuable historical information) တွေ ကျန်ရှိနေဆဲ ဖြစ်တယ်။
+ခေတ်နောက်ကျနေတဲ့ ပုံစံစနစ်ဟောင်း (Outdated formats) တွေကို အသုံးပြုထားတဲ့ ကွန်ပျူတာစနစ်ဟောင်းတွေ ဖြစ်တယ်။ နည်းပညာအရ ခေတ်မမှီတော့ပေမဲ့ လုပ်ငန်းအတွက် အလွန်တန်ဖိုးရှိတဲ့ သမိုင်းဝင် အချက်အလက်ဟောင်း (Valuable historical information) တွေ ကျန်ရှိနေဆဲ ဖြစ်တယ်။
 
 ---
 
