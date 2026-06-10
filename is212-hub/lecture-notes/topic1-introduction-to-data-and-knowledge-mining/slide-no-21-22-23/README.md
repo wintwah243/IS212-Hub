@@ -85,3 +85,13 @@ Data mining is like a multipurpose toolkit. It takes the math from statistics, t
 
 # Key notes from Tchel Hsu Myat Mo
 
+-  supervised learning - learning with example data
+
+- unsupervised learning - learning with observation
+
+- transfer learning က fine tunedပုံစံမျိုး
+
+- Over fittingဆိုတာ generalizationမကောင်း, trained dataမှာပဲကောင်းကောင်းအလုပ်လုပ်တာ။
+
+-under fittingဆိုတာ trained dataမှာတောင် ကောင်းကောင်းအလုပ်မလုပ်နိုင်တာ။
+

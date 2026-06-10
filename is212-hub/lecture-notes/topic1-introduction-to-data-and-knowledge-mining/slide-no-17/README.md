@@ -75,3 +75,9 @@ Imagine you are mining for gold. A computer might find thousands of shiny yellow
 
 # Key notes from Tchel Hsu Myat Mo
 
+- Transient dataဆိုတာက အချိန်တစ်ခုမှပဲထွက်လာတဲ့ patternကိုခေါ်တာ။
+
+- Typicality data - ပုံမှန်pattern, novelty data - ပုံမှန်မဟူတ်တဲ့pattern
+
+
+

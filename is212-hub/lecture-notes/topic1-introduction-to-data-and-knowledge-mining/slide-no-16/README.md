@@ -62,3 +62,14 @@ Think of Characterization like writing a biography of one person (their hobbies,
 
 # Key notes from Tchel Hsu Myat Mo
 
+- feature engineeringပေါ်မူတည်ပြီးmodel performanceကွာသွားတယ်။
+
+- Deep learningနဲ့ tranditional machine learningဘာကွာလဲဆို feature engineeringမှာကွာသွားတယ်။
+
+- Inputကို input representationပြောင်း၊ input representationပေါ်မူတည်ပြီး နောက်ဘာဆက်လုပ်ရမလဲ learnလုပ်သွားတာကို deep learningလို့ခေါ်။
+
+- Feature engineeringကို လူကလုပ်ရင် time consumingဖြစ်တယ်။ deep learningမှာဆို feature engineeringကို ကွန်ပျူတာ/စက်က လုပ်ပေးတယ်။
+
+- Outlierက useful informationတွေပေးတယ်။
+
+
